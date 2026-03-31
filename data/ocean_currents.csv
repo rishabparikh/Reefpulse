@@ -1,0 +1,48 @@
+current_name,region,point_order,lat,lon,speed_km_day,direction
+East Australian Current,Great Barrier Reef,0,-12,144,80,Southward
+East Australian Current,Great Barrier Reef,1,-15,146,80,Southward
+East Australian Current,Great Barrier Reef,2,-18,148,80,Southward
+East Australian Current,Great Barrier Reef,3,-22,152,80,Southward
+East Australian Current,Great Barrier Reef,4,-26,154,80,Southward
+Indonesian Throughflow,Coral Triangle,0,5,120,45,Southward
+Indonesian Throughflow,Coral Triangle,1,2,122,45,Southward
+Indonesian Throughflow,Coral Triangle,2,-1,124,45,Southward
+Indonesian Throughflow,Coral Triangle,3,-4,126,45,Southward
+Indonesian Throughflow,Coral Triangle,4,-8,120,45,Southward
+North Equatorial Current,Coral Triangle,0,8,135,35,Westward
+North Equatorial Current,Coral Triangle,1,8,140,35,Westward
+North Equatorial Current,Coral Triangle,2,7,145,35,Westward
+North Equatorial Current,Coral Triangle,3,6,150,35,Westward
+Caribbean Current,Caribbean,0,12,-68,55,Westward/Northward
+Caribbean Current,Caribbean,1,14,-72,55,Westward/Northward
+Caribbean Current,Caribbean,2,16,-76,55,Westward/Northward
+Caribbean Current,Caribbean,3,18,-80,55,Westward/Northward
+Caribbean Current,Caribbean,4,20,-84,55,Westward/Northward
+Caribbean Current,Caribbean,5,22,-86,55,Westward/Northward
+Gulf Stream (origin),Caribbean,0,22,-86,100,Northward
+Gulf Stream (origin),Caribbean,1,24,-83,100,Northward
+Gulf Stream (origin),Caribbean,2,25,-80,100,Northward
+Gulf Stream (origin),Caribbean,3,26,-79,100,Northward
+South Equatorial Current (Indian),Indian Ocean,0,-8,72,40,Westward
+South Equatorial Current (Indian),Indian Ocean,1,-9,65,40,Westward
+South Equatorial Current (Indian),Indian Ocean,2,-10,58,40,Westward
+South Equatorial Current (Indian),Indian Ocean,3,-11,50,40,Westward
+South Equatorial Current (Indian),Indian Ocean,4,-12,42,40,Westward
+Somali Current,Indian Ocean,0,-2,42,60,Northward (monsoon)
+Somali Current,Indian Ocean,1,2,44,60,Northward (monsoon)
+Somali Current,Indian Ocean,2,6,47,60,Northward (monsoon)
+Somali Current,Indian Ocean,3,10,52,60,Northward (monsoon)
+Red Sea Circulation,Red Sea,0,12,43,20,Northward
+Red Sea Circulation,Red Sea,1,16,40,20,Northward
+Red Sea Circulation,Red Sea,2,19,38,20,Northward
+Red Sea Circulation,Red Sea,3,22,37,20,Northward
+Red Sea Circulation,Red Sea,4,25,36,20,Northward
+South Equatorial Current (Pacific),Central Pacific,0,-15,180,35,Westward
+South Equatorial Current (Pacific),Central Pacific,1,-15,170,35,Westward
+South Equatorial Current (Pacific),Central Pacific,2,-14,160,35,Westward
+South Equatorial Current (Pacific),Central Pacific,3,-12,150,35,Westward
+South Equatorial Current (Pacific),Central Pacific,4,-10,140,35,Westward
+Equatorial Undercurrent,Eastern Pacific,0,0,-92,50,Eastward
+Equatorial Undercurrent,Eastern Pacific,1,0,-88,50,Eastward
+Equatorial Undercurrent,Eastern Pacific,2,0,-84,50,Eastward
+Equatorial Undercurrent,Eastern Pacific,3,0,-80,50,Eastward

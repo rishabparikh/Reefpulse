@@ -1,0 +1,43 @@
+site_id,name,region,country,lat,lon,coral_cover_2024,cover_change_pct,protection_level,thermal_stress_score,trajectory_score,cover_risk_score,protection_score,human_pressure_score,composite_risk_score,risk_tier
+GBR-N,Northern GBR,Great Barrier Reef,Australia,-14.5,145.5,18,-18.2,National Park,38.9,61.3,79.7,41.5,48.5,55.4,High
+GBR-C,Central GBR,Great Barrier Reef,Australia,-18.2,147.5,28,-20.0,Unprotected,38.3,62.0,61.7,77.5,49.9,56.5,High
+GBR-S,Southern GBR,Great Barrier Reef,Australia,-22.0,152.0,36,-14.3,Partial Protection,33.7,33.9,52.5,55.4,69.6,47.1,Elevated
+GBR-CS,Coral Sea Reefs,Great Barrier Reef,Australia,-16.0,150.0,42,-12.5,Partial Protection,21.0,31.8,37.2,64.1,49.8,38.0,Moderate
+CT-RI,Raja Ampat,Coral Triangle,Indonesia,-0.5,130.5,58,-10.8,Marine Protected Area,40.5,23.0,7.2,27.6,38.6,26.5,Moderate
+CT-BI,Bunaken,Coral Triangle,Indonesia,1.6,124.8,48,-12.7,Marine Protected Area,33.7,40.8,23.1,37.8,69.7,38.5,Moderate
+CT-WI,Wakatobi,Coral Triangle,Indonesia,-5.5,123.8,44,-15.4,Marine Protected Area,29.4,36.0,22.6,18.7,64.2,32.6,Moderate
+CT-KI,Komodo,Coral Triangle,Indonesia,-8.5,119.5,40,-16.7,Unprotected,38.7,50.4,32.4,86.4,48.3,48.1,Elevated
+CT-TP,Tubbataha,Coral Triangle,Philippines,8.9,119.9,52,-10.3,Partial Protection,34.1,30.0,15.6,45.8,66.6,35.3,Moderate
+CT-AP,Apo Reef,Coral Triangle,Philippines,12.7,120.5,38,-15.6,Partial Protection,41.2,52.4,44.6,56.1,34.3,45.5,Elevated
+CT-VP,Verde Island Passage,Coral Triangle,Philippines,13.5,121.0,43,-14.0,Marine Protected Area,35.8,39.8,45.3,30.5,73.4,43.8,Elevated
+CT-PNG,Kimbe Bay,Coral Triangle,Papua New Guinea,-5.4,150.1,55,-8.3,Unprotected,34.8,20.1,18.1,81.9,43.7,36.1,Moderate
+CT-MY,Sipadan,Coral Triangle,Malaysia,4.1,118.6,50,-9.1,Unprotected,26.9,26.1,33.0,63.4,69.5,40.1,Elevated
+CB-BZ,Belize Barrier Reef,Caribbean,Belize,17.5,-87.8,20,-28.6,Marine Protected Area,34.5,65.5,75.9,30.9,80.1,57.3,High
+CB-BN,Bonaire Reef,Caribbean,Bonaire,12.2,-68.3,32,-15.8,Marine Protected Area,40.4,61.0,54.8,23.7,69.1,49.9,Elevated
+CB-FK,Florida Keys,Caribbean,USA,24.6,-81.6,12,-33.3,Marine Protected Area,43.9,82.0,78.7,22.5,39.7,56.4,High
+CB-CR,Cozumel,Caribbean,Mexico,20.4,-87.0,25,-21.9,World Heritage Site,39.1,44.7,62.8,21.9,59.3,46.6,Elevated
+CB-VI,US Virgin Islands,Caribbean,USA,18.3,-64.9,16,-33.3,Partial Protection,55.4,76.6,82.0,60.4,44.4,65.4,High
+CB-CY,Cayman Islands,Caribbean,Cayman Islands,19.3,-81.4,22,-26.7,National Park,63.7,71.2,62.6,18.7,62.4,58.0,High
+CB-JM,Jamaica North Coast,Caribbean,Jamaica,18.5,-77.8,10,-33.3,World Heritage Site,29.0,89.1,83.5,20.1,60.3,58.0,High
+CB-CU,Jardines de la Reina,Caribbean,Cuba,21.5,-79.0,48,-7.7,Partial Protection,10.5,23.1,16.2,57.8,53.2,27.9,Moderate
+IO-MV,Maldives Central Atolls,Indian Ocean,Maldives,4.2,73.5,24,-31.4,Marine Protected Area,55.3,94.0,59.3,33.5,44.8,59.2,High
+IO-SC,Seychelles Inner Islands,Indian Ocean,Seychelles,-4.6,55.5,22,-26.7,World Heritage Site,56.0,68.8,62.8,20.5,44.8,53.3,Elevated
+IO-LK,Lakshadweep,Indian Ocean,India,10.6,72.6,38,-9.5,National Park,19.3,24.9,42.8,40.7,26.8,30.6,Moderate
+IO-MZ,Mozambique Channel,Indian Ocean,Mozambique,-12.5,40.5,32,-15.8,National Park,34.2,49.5,53.0,40.5,49.1,45.1,Elevated
+IO-MG,NE Madagascar,Indian Ocean,Madagascar,-13.0,49.5,34,-15.0,Unprotected,32.5,47.2,49.5,76.9,56.2,49.9,Elevated
+IO-RU,Reunion,Indian Ocean,France,-21.1,55.5,20,-28.6,Marine Protected Area,36.8,71.6,67.4,35.8,11.3,47.4,Elevated
+IO-CH,Chagos Archipelago,Indian Ocean,BIOT,-6.5,71.5,48,-12.7,Partial Protection,41.2,37.0,19.6,57.5,55.7,39.6,Moderate
+RS-EG,Egyptian Red Sea,Red Sea,Egypt,24.5,35.5,52,-5.5,Partial Protection,26.7,0.0,28.8,49.1,43.2,27.7,Moderate
+RS-SA,Saudi Arabian Reefs,Red Sea,Saudi Arabia,22.0,38.5,47,-6.0,Marine Protected Area,27.9,13.0,32.8,21.9,10.1,22.6,Low
+RS-SD,Sudanese Reefs,Red Sea,Sudan,19.5,37.5,55,-5.2,Partial Protection,31.3,11.8,13.2,51.8,38.3,27.0,Moderate
+RS-DJ,Djibouti Gulf,Red Sea,Djibouti,11.5,43.2,30,-14.3,Marine Protected Area,29.5,45.1,48.3,19.1,33.6,36.4,Moderate
+CP-HI,Hawaiian Islands,Central Pacific,USA,21.0,-157.0,26,-18.8,Marine Protected Area,49.2,51.1,66.4,25.3,34.2,48.0,Elevated
+CP-FP,French Polynesia,Central Pacific,France,-17.5,-149.5,40,-11.1,Unprotected,28.0,31.4,43.0,91.0,44.3,44.3,Elevated
+CP-FJ,Fiji Great Reef,Central Pacific,Fiji,-17.8,177.0,36,-14.3,Unprotected,43.5,33.0,43.9,74.2,43.8,46.2,Elevated
+CP-SM,Samoa,Central Pacific,Samoa,-13.8,-172.0,32,-15.8,Unprotected,31.1,50.3,47.3,80.3,48.2,49.0,Elevated
+CP-PW,Palau,Central Pacific,Palau,7.5,134.5,50,-9.1,World Heritage Site,13.5,44.7,23.6,0.0,41.9,24.5,Low
+CP-NC,New Caledonia,Central Pacific,France,-22.3,166.5,44,-8.3,Marine Protected Area,26.3,25.1,39.0,31.0,43.6,32.5,Moderate
+CP-MS,Marshall Islands,Central Pacific,Marshall Islands,7.1,171.4,34,-15.0,Partial Protection,37.6,41.7,57.9,43.2,41.7,44.9,Elevated
+EP-GI,Galapagos Islands,Eastern Pacific,Ecuador,-0.9,-89.6,15,-25.0,National Park,30.5,74.0,73.3,16.1,56.9,51.7,Elevated
+EP-CR,Costa Rica Pacific,Eastern Pacific,Costa Rica,8.7,-83.5,20,-20.0,Marine Protected Area,32.2,66.9,63.6,34.2,83.4,55.0,High
+EP-PA,Panama Gulf,Eastern Pacific,Panama,7.5,-78.5,25,-16.7,National Park,27.0,36.4,60.5,30.1,61.8,42.9,Elevated

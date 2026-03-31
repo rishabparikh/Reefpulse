@@ -1,0 +1,652 @@
+year,region,scenario,warming_c,projected_cover_pct,bleaching_freq_per_decade,economic_loss_pct
+2025,Great Barrier Reef,1.5C,1.1,26.0,1.3,0.1
+2026,Great Barrier Reef,1.5C,1.14,25.9,1.4,0.4
+2027,Great Barrier Reef,1.5C,1.17,24.8,1.5,4.7
+2028,Great Barrier Reef,1.5C,1.2,23.0,1.6,11.5
+2029,Great Barrier Reef,1.5C,1.23,22.9,1.7,11.8
+2030,Great Barrier Reef,1.5C,1.26,22.7,1.8,12.8
+2031,Great Barrier Reef,1.5C,1.28,22.5,1.8,13.4
+2032,Great Barrier Reef,1.5C,1.3,22.3,1.9,14.2
+2033,Great Barrier Reef,1.5C,1.32,22.2,2.0,14.7
+2034,Great Barrier Reef,1.5C,1.34,22.0,2.0,15.5
+2035,Great Barrier Reef,1.5C,1.35,20.1,2.1,22.6
+2036,Great Barrier Reef,1.5C,1.37,20.0,2.1,23.1
+2037,Great Barrier Reef,1.5C,1.38,17.8,2.1,31.6
+2038,Great Barrier Reef,1.5C,1.39,17.5,2.2,32.7
+2039,Great Barrier Reef,1.5C,1.4,17.2,2.2,33.8
+2040,Great Barrier Reef,1.5C,1.41,16.9,2.2,35.2
+2041,Great Barrier Reef,1.5C,1.42,16.4,2.3,36.9
+2042,Great Barrier Reef,1.5C,1.43,16.1,2.3,38.0
+2043,Great Barrier Reef,1.5C,1.43,14.3,2.3,44.8
+2044,Great Barrier Reef,1.5C,1.44,14.1,2.3,45.8
+2045,Great Barrier Reef,1.5C,1.45,13.7,2.3,47.3
+2046,Great Barrier Reef,1.5C,1.45,13.2,2.4,49.4
+2047,Great Barrier Reef,1.5C,1.46,12.8,2.4,50.6
+2048,Great Barrier Reef,1.5C,1.46,9.9,2.4,61.9
+2049,Great Barrier Reef,1.5C,1.46,8.5,2.4,67.5
+2050,Great Barrier Reef,1.5C,1.47,8.0,2.4,69.3
+2051,Great Barrier Reef,1.5C,1.47,7.5,2.4,71.1
+2052,Great Barrier Reef,1.5C,1.47,7.0,2.4,72.9
+2053,Great Barrier Reef,1.5C,1.48,6.8,2.4,73.8
+2054,Great Barrier Reef,1.5C,1.48,6.5,2.4,75.2
+2055,Great Barrier Reef,1.5C,1.48,6.0,2.4,77.0
+2025,Great Barrier Reef,2.0C,1.1,26.0,1.3,0.0
+2026,Great Barrier Reef,2.0C,1.13,26.0,1.4,0.1
+2027,Great Barrier Reef,2.0C,1.16,26.0,1.5,0.1
+2028,Great Barrier Reef,2.0C,1.19,25.9,1.6,0.6
+2029,Great Barrier Reef,2.0C,1.22,25.7,1.7,1.1
+2030,Great Barrier Reef,2.0C,1.25,25.5,1.8,1.9
+2031,Great Barrier Reef,2.0C,1.28,25.3,1.8,2.7
+2032,Great Barrier Reef,2.0C,1.31,23.9,1.9,8.2
+2033,Great Barrier Reef,2.0C,1.34,23.6,2.0,9.2
+2034,Great Barrier Reef,2.0C,1.37,23.4,2.1,10.1
+2035,Great Barrier Reef,2.0C,1.4,23.0,2.2,11.5
+2036,Great Barrier Reef,2.0C,1.43,22.5,2.3,13.5
+2037,Great Barrier Reef,2.0C,1.46,22.1,2.4,14.9
+2038,Great Barrier Reef,2.0C,1.49,21.7,2.5,16.4
+2039,Great Barrier Reef,2.0C,1.52,21.3,2.6,18.0
+2040,Great Barrier Reef,2.0C,1.55,20.9,2.7,19.6
+2041,Great Barrier Reef,2.0C,1.58,17.7,2.7,31.8
+2042,Great Barrier Reef,2.0C,1.61,17.5,2.8,32.8
+2043,Great Barrier Reef,2.0C,1.64,17.1,2.9,34.2
+2044,Great Barrier Reef,2.0C,1.67,16.4,3.0,37.0
+2045,Great Barrier Reef,2.0C,1.7,16.1,3.1,38.3
+2046,Great Barrier Reef,2.0C,1.73,15.7,3.2,39.6
+2047,Great Barrier Reef,2.0C,1.76,12.9,3.3,50.3
+2048,Great Barrier Reef,2.0C,1.79,12.2,3.4,53.2
+2049,Great Barrier Reef,2.0C,1.82,11.4,3.5,56.1
+2050,Great Barrier Reef,2.0C,1.85,7.9,3.5,69.5
+2051,Great Barrier Reef,2.0C,1.88,7.3,3.6,72.1
+2052,Great Barrier Reef,2.0C,1.91,6.5,3.7,75.1
+2053,Great Barrier Reef,2.0C,1.94,2.0,3.8,92.3
+2054,Great Barrier Reef,2.0C,1.97,2.0,3.9,92.3
+2055,Great Barrier Reef,2.0C,2.0,2.0,4.0,92.3
+2025,Great Barrier Reef,3.0C,1.1,26.0,1.3,0.0
+2026,Great Barrier Reef,3.0C,1.23,25.9,1.7,0.3
+2027,Great Barrier Reef,3.0C,1.32,25.7,2.0,1.2
+2028,Great Barrier Reef,3.0C,1.4,23.1,2.2,11.3
+2029,Great Barrier Reef,3.0C,1.48,22.7,2.4,12.8
+2030,Great Barrier Reef,3.0C,1.55,22.4,2.7,14.0
+2031,Great Barrier Reef,3.0C,1.62,21.8,2.9,16.0
+2032,Great Barrier Reef,3.0C,1.69,21.6,3.1,16.9
+2033,Great Barrier Reef,3.0C,1.76,21.1,3.3,18.8
+2034,Great Barrier Reef,3.0C,1.83,20.8,3.5,20.2
+2035,Great Barrier Reef,3.0C,1.89,18.6,3.7,28.6
+2036,Great Barrier Reef,3.0C,1.95,17.6,3.9,32.5
+2037,Great Barrier Reef,3.0C,2.01,17.0,4.0,34.6
+2038,Great Barrier Reef,3.0C,2.07,12.7,4.2,51.0
+2039,Great Barrier Reef,3.0C,2.13,12.2,4.4,53.2
+2040,Great Barrier Reef,3.0C,2.19,11.2,4.6,56.9
+2041,Great Barrier Reef,3.0C,2.25,5.9,4.7,77.2
+2042,Great Barrier Reef,3.0C,2.31,5.1,4.9,80.2
+2043,Great Barrier Reef,3.0C,2.36,4.0,5.1,84.5
+2044,Great Barrier Reef,3.0C,2.42,2.7,5.3,89.6
+2045,Great Barrier Reef,3.0C,2.47,2.0,5.4,92.3
+2046,Great Barrier Reef,3.0C,2.53,2.0,5.6,92.3
+2047,Great Barrier Reef,3.0C,2.58,2.0,5.7,92.3
+2048,Great Barrier Reef,3.0C,2.64,2.0,5.9,92.3
+2049,Great Barrier Reef,3.0C,2.69,2.0,6.1,92.3
+2050,Great Barrier Reef,3.0C,2.74,2.0,6.2,92.3
+2051,Great Barrier Reef,3.0C,2.79,2.0,6.4,92.3
+2052,Great Barrier Reef,3.0C,2.85,2.0,6.5,92.3
+2053,Great Barrier Reef,3.0C,2.9,2.0,6.7,92.3
+2054,Great Barrier Reef,3.0C,2.95,2.0,6.8,92.3
+2055,Great Barrier Reef,3.0C,3.0,2.0,7.0,92.3
+2025,Coral Triangle,1.5C,1.1,48.1,1.2,0.0
+2026,Coral Triangle,1.5C,1.14,47.7,1.3,0.6
+2027,Coral Triangle,1.5C,1.17,47.7,1.4,0.6
+2028,Coral Triangle,1.5C,1.2,47.1,1.4,1.9
+2029,Coral Triangle,1.5C,1.23,47.1,1.5,2.0
+2030,Coral Triangle,1.5C,1.26,47.0,1.5,2.0
+2031,Coral Triangle,1.5C,1.28,47.0,1.6,2.1
+2032,Coral Triangle,1.5C,1.3,46.9,1.6,2.2
+2033,Coral Triangle,1.5C,1.32,46.9,1.7,2.4
+2034,Coral Triangle,1.5C,1.34,46.7,1.7,2.6
+2035,Coral Triangle,1.5C,1.35,46.6,1.7,3.0
+2036,Coral Triangle,1.5C,1.37,46.4,1.8,3.3
+2037,Coral Triangle,1.5C,1.38,46.4,1.8,3.4
+2038,Coral Triangle,1.5C,1.39,46.3,1.8,3.6
+2039,Coral Triangle,1.5C,1.4,46.2,1.8,3.7
+2040,Coral Triangle,1.5C,1.41,46.0,1.9,4.2
+2041,Coral Triangle,1.5C,1.42,45.9,1.9,4.3
+2042,Coral Triangle,1.5C,1.43,45.8,1.9,4.6
+2043,Coral Triangle,1.5C,1.43,45.6,1.9,5.0
+2044,Coral Triangle,1.5C,1.44,45.5,1.9,5.1
+2045,Coral Triangle,1.5C,1.45,45.3,1.9,5.5
+2046,Coral Triangle,1.5C,1.45,45.1,1.9,5.9
+2047,Coral Triangle,1.5C,1.46,45.1,2.0,6.1
+2048,Coral Triangle,1.5C,1.46,44.8,2.0,6.7
+2049,Coral Triangle,1.5C,1.46,44.5,2.0,7.2
+2050,Coral Triangle,1.5C,1.47,42.8,2.0,10.8
+2051,Coral Triangle,1.5C,1.47,42.6,2.0,11.3
+2052,Coral Triangle,1.5C,1.47,42.4,2.0,11.7
+2053,Coral Triangle,1.5C,1.48,42.2,2.0,12.1
+2054,Coral Triangle,1.5C,1.48,42.1,2.0,12.2
+2055,Coral Triangle,1.5C,1.48,41.0,2.0,14.5
+2025,Coral Triangle,2.0C,1.1,48.1,1.2,0.0
+2026,Coral Triangle,2.0C,1.13,48.1,1.3,0.0
+2027,Coral Triangle,2.0C,1.16,48.2,1.3,0.0
+2028,Coral Triangle,2.0C,1.19,47.3,1.4,1.5
+2029,Coral Triangle,2.0C,1.22,47.3,1.5,1.5
+2030,Coral Triangle,2.0C,1.25,47.3,1.5,1.5
+2031,Coral Triangle,2.0C,1.28,47.2,1.6,1.7
+2032,Coral Triangle,2.0C,1.31,47.1,1.7,1.9
+2033,Coral Triangle,2.0C,1.34,47.0,1.7,2.0
+2034,Coral Triangle,2.0C,1.37,46.9,1.8,2.2
+2035,Coral Triangle,2.0C,1.4,46.7,1.8,2.6
+2036,Coral Triangle,2.0C,1.43,46.5,1.9,3.0
+2037,Coral Triangle,2.0C,1.46,46.3,2.0,3.6
+2038,Coral Triangle,2.0C,1.49,46.2,2.0,3.8
+2039,Coral Triangle,2.0C,1.52,44.3,2.1,7.6
+2040,Coral Triangle,2.0C,1.55,44.1,2.2,8.0
+2041,Coral Triangle,2.0C,1.58,42.4,2.2,11.6
+2042,Coral Triangle,2.0C,1.61,42.2,2.3,12.1
+2043,Coral Triangle,2.0C,1.64,41.8,2.3,12.9
+2044,Coral Triangle,2.0C,1.67,41.6,2.4,13.4
+2045,Coral Triangle,2.0C,1.7,41.3,2.5,13.9
+2046,Coral Triangle,2.0C,1.73,41.1,2.5,14.4
+2047,Coral Triangle,2.0C,1.76,40.6,2.6,15.4
+2048,Coral Triangle,2.0C,1.79,39.1,2.7,18.6
+2049,Coral Triangle,2.0C,1.82,38.6,2.7,19.6
+2050,Coral Triangle,2.0C,1.85,38.3,2.8,20.2
+2051,Coral Triangle,2.0C,1.88,38.0,2.8,20.9
+2052,Coral Triangle,2.0C,1.91,35.5,2.9,26.0
+2053,Coral Triangle,2.0C,1.94,35.2,3.0,26.7
+2054,Coral Triangle,2.0C,1.97,34.7,3.0,27.7
+2055,Coral Triangle,2.0C,2.0,34.4,3.1,28.3
+2025,Coral Triangle,3.0C,1.1,48.1,1.2,0.0
+2026,Coral Triangle,3.0C,1.23,48.0,1.5,0.0
+2027,Coral Triangle,3.0C,1.32,48.0,1.7,0.0
+2028,Coral Triangle,3.0C,1.4,47.8,1.8,0.5
+2029,Coral Triangle,3.0C,1.48,47.6,2.0,0.8
+2030,Coral Triangle,3.0C,1.55,46.1,2.2,4.0
+2031,Coral Triangle,3.0C,1.62,45.9,2.3,4.5
+2032,Coral Triangle,3.0C,1.69,43.9,2.5,8.5
+2033,Coral Triangle,3.0C,1.76,42.0,2.6,12.4
+2034,Coral Triangle,3.0C,1.83,41.6,2.7,13.4
+2035,Coral Triangle,3.0C,1.89,41.0,2.9,14.5
+2036,Coral Triangle,3.0C,1.95,39.2,3.0,18.3
+2037,Coral Triangle,3.0C,2.01,38.8,3.1,19.1
+2038,Coral Triangle,3.0C,2.07,38.2,3.3,20.5
+2039,Coral Triangle,3.0C,2.13,34.5,3.4,28.2
+2040,Coral Triangle,3.0C,2.19,34.1,3.5,29.0
+2041,Coral Triangle,3.0C,2.25,31.7,3.6,33.9
+2042,Coral Triangle,3.0C,2.31,31.2,3.7,34.9
+2043,Coral Triangle,3.0C,2.36,28.2,3.9,41.2
+2044,Coral Triangle,3.0C,2.42,22.9,4.0,52.3
+2045,Coral Triangle,3.0C,2.47,22.1,4.1,54.0
+2046,Coral Triangle,3.0C,2.53,21.0,4.2,56.3
+2047,Coral Triangle,3.0C,2.58,20.0,4.3,58.4
+2048,Coral Triangle,3.0C,2.64,19.2,4.4,60.0
+2049,Coral Triangle,3.0C,2.69,18.6,4.5,61.2
+2050,Coral Triangle,3.0C,2.74,13.9,4.7,71.0
+2051,Coral Triangle,3.0C,2.79,13.3,4.8,72.3
+2052,Coral Triangle,3.0C,2.85,8.4,4.9,82.5
+2053,Coral Triangle,3.0C,2.9,3.2,5.0,93.4
+2054,Coral Triangle,3.0C,2.95,2.1,5.1,95.0
+2055,Coral Triangle,3.0C,3.0,2.0,5.2,95.0
+2025,Caribbean,1.5C,1.1,17.9,1.4,0.3
+2026,Caribbean,1.5C,1.14,17.9,1.5,0.7
+2027,Caribbean,1.5C,1.17,17.8,1.7,1.3
+2028,Caribbean,1.5C,1.2,17.6,1.8,2.2
+2029,Caribbean,1.5C,1.23,17.4,1.9,3.6
+2030,Caribbean,1.5C,1.26,17.0,2.0,5.5
+2031,Caribbean,1.5C,1.28,15.0,2.1,16.6
+2032,Caribbean,1.5C,1.3,14.6,2.2,18.6
+2033,Caribbean,1.5C,1.32,14.3,2.2,20.5
+2034,Caribbean,1.5C,1.34,11.1,2.3,38.4
+2035,Caribbean,1.5C,1.35,10.7,2.4,40.7
+2036,Caribbean,1.5C,1.37,10.4,2.4,42.2
+2037,Caribbean,1.5C,1.38,10.1,2.5,43.9
+2038,Caribbean,1.5C,1.39,9.7,2.5,46.2
+2039,Caribbean,1.5C,1.4,9.0,2.6,49.8
+2040,Caribbean,1.5C,1.41,8.6,2.6,52.0
+2041,Caribbean,1.5C,1.42,8.3,2.6,53.8
+2042,Caribbean,1.5C,1.43,4.9,2.7,72.6
+2043,Caribbean,1.5C,1.43,4.6,2.7,74.2
+2044,Caribbean,1.5C,1.44,4.2,2.7,76.5
+2045,Caribbean,1.5C,1.45,3.9,2.7,78.5
+2046,Caribbean,1.5C,1.45,2.0,2.8,88.9
+2047,Caribbean,1.5C,1.46,2.0,2.8,88.9
+2048,Caribbean,1.5C,1.46,2.0,2.8,88.9
+2049,Caribbean,1.5C,1.46,2.0,2.8,88.9
+2050,Caribbean,1.5C,1.47,2.0,2.8,88.9
+2051,Caribbean,1.5C,1.47,2.0,2.8,88.9
+2052,Caribbean,1.5C,1.47,2.0,2.8,88.9
+2053,Caribbean,1.5C,1.48,2.0,2.9,88.9
+2054,Caribbean,1.5C,1.48,2.0,2.9,88.9
+2055,Caribbean,1.5C,1.48,2.0,2.9,88.9
+2025,Caribbean,2.0C,1.1,17.9,1.4,0.8
+2026,Caribbean,2.0C,1.13,17.8,1.5,1.0
+2027,Caribbean,2.0C,1.16,17.7,1.6,1.6
+2028,Caribbean,2.0C,1.19,17.6,1.7,2.3
+2029,Caribbean,2.0C,1.22,17.5,1.9,3.0
+2030,Caribbean,2.0C,1.25,15.9,2.0,11.6
+2031,Caribbean,2.0C,1.28,15.7,2.1,12.8
+2032,Caribbean,2.0C,1.31,15.4,2.2,14.7
+2033,Caribbean,2.0C,1.34,12.8,2.3,29.1
+2034,Caribbean,2.0C,1.37,12.5,2.4,30.6
+2035,Caribbean,2.0C,1.4,12.2,2.6,32.1
+2036,Caribbean,2.0C,1.43,10.3,2.7,42.5
+2037,Caribbean,2.0C,1.46,9.7,2.8,46.1
+2038,Caribbean,2.0C,1.49,9.4,2.9,47.9
+2039,Caribbean,2.0C,1.52,8.8,3.0,51.4
+2040,Caribbean,2.0C,1.55,7.8,3.1,56.7
+2041,Caribbean,2.0C,1.58,7.2,3.3,59.7
+2042,Caribbean,2.0C,1.61,6.8,3.4,62.0
+2043,Caribbean,2.0C,1.64,6.2,3.5,65.4
+2044,Caribbean,2.0C,1.67,2.0,3.6,88.9
+2045,Caribbean,2.0C,1.7,2.0,3.7,88.9
+2046,Caribbean,2.0C,1.73,2.0,3.8,88.9
+2047,Caribbean,2.0C,1.76,2.0,4.0,88.9
+2048,Caribbean,2.0C,1.79,2.0,4.1,88.9
+2049,Caribbean,2.0C,1.82,2.0,4.2,88.9
+2050,Caribbean,2.0C,1.85,2.0,4.3,88.9
+2051,Caribbean,2.0C,1.88,2.0,4.4,88.9
+2052,Caribbean,2.0C,1.91,2.0,4.5,88.9
+2053,Caribbean,2.0C,1.94,2.0,4.7,88.9
+2054,Caribbean,2.0C,1.97,2.0,4.8,88.9
+2055,Caribbean,2.0C,2.0,2.0,4.9,88.9
+2025,Caribbean,3.0C,1.1,17.9,1.4,0.3
+2026,Caribbean,3.0C,1.23,17.7,1.9,1.6
+2027,Caribbean,3.0C,1.32,17.5,2.2,3.0
+2028,Caribbean,3.0C,1.4,17.1,2.6,4.8
+2029,Caribbean,3.0C,1.48,16.6,2.9,8.0
+2030,Caribbean,3.0C,1.55,16.0,3.2,10.9
+2031,Caribbean,3.0C,1.62,13.1,3.4,27.4
+2032,Caribbean,3.0C,1.69,12.1,3.7,32.8
+2033,Caribbean,3.0C,1.76,11.3,4.0,37.4
+2034,Caribbean,3.0C,1.83,10.6,4.2,40.9
+2035,Caribbean,3.0C,1.89,10.1,4.5,44.1
+2036,Caribbean,3.0C,1.95,4.9,4.7,72.6
+2037,Caribbean,3.0C,2.01,3.9,5.0,78.4
+2038,Caribbean,3.0C,2.07,2.0,5.2,88.9
+2039,Caribbean,3.0C,2.13,2.0,5.4,88.9
+2040,Caribbean,3.0C,2.19,2.0,5.6,88.9
+2041,Caribbean,3.0C,2.25,2.0,5.9,88.9
+2042,Caribbean,3.0C,2.31,2.0,6.1,88.9
+2043,Caribbean,3.0C,2.36,2.0,6.3,88.9
+2044,Caribbean,3.0C,2.42,2.0,6.5,88.9
+2045,Caribbean,3.0C,2.47,2.0,6.7,88.9
+2046,Caribbean,3.0C,2.53,2.0,7.0,88.9
+2047,Caribbean,3.0C,2.58,2.0,7.2,88.9
+2048,Caribbean,3.0C,2.64,2.0,7.4,88.9
+2049,Caribbean,3.0C,2.69,2.0,7.6,88.9
+2050,Caribbean,3.0C,2.74,2.0,7.8,88.9
+2051,Caribbean,3.0C,2.79,2.0,8.0,88.9
+2052,Caribbean,3.0C,2.85,2.0,8.2,88.9
+2053,Caribbean,3.0C,2.9,2.0,8.4,88.9
+2054,Caribbean,3.0C,2.95,2.0,8.6,88.9
+2055,Caribbean,3.0C,3.0,2.0,8.8,88.9
+2025,Indian Ocean,1.5C,1.1,30.0,1.3,0.0
+2026,Indian Ocean,1.5C,1.14,30.0,1.4,0.0
+2027,Indian Ocean,1.5C,1.17,29.9,1.5,0.2
+2028,Indian Ocean,1.5C,1.2,29.9,1.5,0.5
+2029,Indian Ocean,1.5C,1.23,29.8,1.6,0.7
+2030,Indian Ocean,1.5C,1.26,29.7,1.7,1.1
+2031,Indian Ocean,1.5C,1.28,28.1,1.8,6.3
+2032,Indian Ocean,1.5C,1.3,27.9,1.8,7.1
+2033,Indian Ocean,1.5C,1.32,27.6,1.9,7.9
+2034,Indian Ocean,1.5C,1.34,27.5,1.9,8.3
+2035,Indian Ocean,1.5C,1.35,26.3,2.0,12.5
+2036,Indian Ocean,1.5C,1.37,26.1,2.0,13.1
+2037,Indian Ocean,1.5C,1.38,25.8,2.0,13.9
+2038,Indian Ocean,1.5C,1.39,24.4,2.1,18.8
+2039,Indian Ocean,1.5C,1.4,23.2,2.1,22.7
+2040,Indian Ocean,1.5C,1.41,22.9,2.1,23.7
+2041,Indian Ocean,1.5C,1.42,22.7,2.1,24.4
+2042,Indian Ocean,1.5C,1.43,22.4,2.2,25.4
+2043,Indian Ocean,1.5C,1.43,20.2,2.2,32.7
+2044,Indian Ocean,1.5C,1.44,19.9,2.2,33.5
+2045,Indian Ocean,1.5C,1.45,18.4,2.2,38.5
+2046,Indian Ocean,1.5C,1.45,18.1,2.2,39.6
+2047,Indian Ocean,1.5C,1.46,17.9,2.2,40.5
+2048,Indian Ocean,1.5C,1.46,17.5,2.2,41.7
+2049,Indian Ocean,1.5C,1.46,15.6,2.3,47.9
+2050,Indian Ocean,1.5C,1.47,15.3,2.3,49.1
+2051,Indian Ocean,1.5C,1.47,15.0,2.3,50.0
+2052,Indian Ocean,1.5C,1.47,14.7,2.3,51.1
+2053,Indian Ocean,1.5C,1.48,14.4,2.3,52.0
+2054,Indian Ocean,1.5C,1.48,14.0,2.3,53.3
+2055,Indian Ocean,1.5C,1.48,13.6,2.3,54.7
+2025,Indian Ocean,2.0C,1.1,30.0,1.3,0.0
+2026,Indian Ocean,2.0C,1.13,30.0,1.4,0.0
+2027,Indian Ocean,2.0C,1.16,30.0,1.4,0.0
+2028,Indian Ocean,2.0C,1.19,29.9,1.5,0.3
+2029,Indian Ocean,2.0C,1.22,29.9,1.6,0.3
+2030,Indian Ocean,2.0C,1.25,29.1,1.7,2.9
+2031,Indian Ocean,2.0C,1.28,27.7,1.8,7.6
+2032,Indian Ocean,2.0C,1.31,27.6,1.8,7.9
+2033,Indian Ocean,2.0C,1.34,27.4,1.9,8.7
+2034,Indian Ocean,2.0C,1.37,25.4,2.0,15.4
+2035,Indian Ocean,2.0C,1.4,25.1,2.1,16.2
+2036,Indian Ocean,2.0C,1.43,24.9,2.2,17.0
+2037,Indian Ocean,2.0C,1.46,24.6,2.2,17.9
+2038,Indian Ocean,2.0C,1.49,24.4,2.3,18.7
+2039,Indian Ocean,2.0C,1.52,24.1,2.4,19.8
+2040,Indian Ocean,2.0C,1.55,21.5,2.5,28.3
+2041,Indian Ocean,2.0C,1.58,21.3,2.6,29.1
+2042,Indian Ocean,2.0C,1.61,19.3,2.6,35.6
+2043,Indian Ocean,2.0C,1.64,18.9,2.7,37.0
+2044,Indian Ocean,2.0C,1.67,18.6,2.8,37.9
+2045,Indian Ocean,2.0C,1.7,18.3,2.9,39.1
+2046,Indian Ocean,2.0C,1.73,17.7,3.0,40.9
+2047,Indian Ocean,2.0C,1.76,17.4,3.1,42.1
+2048,Indian Ocean,2.0C,1.79,16.8,3.1,43.9
+2049,Indian Ocean,2.0C,1.82,16.3,3.2,45.8
+2050,Indian Ocean,2.0C,1.85,15.6,3.3,48.1
+2051,Indian Ocean,2.0C,1.88,11.6,3.4,61.2
+2052,Indian Ocean,2.0C,1.91,7.7,3.5,74.3
+2053,Indian Ocean,2.0C,1.94,6.9,3.5,77.1
+2054,Indian Ocean,2.0C,1.97,6.3,3.6,79.1
+2055,Indian Ocean,2.0C,2.0,5.6,3.7,81.5
+2025,Indian Ocean,3.0C,1.1,30.0,1.3,0.2
+2026,Indian Ocean,3.0C,1.23,29.8,1.6,0.6
+2027,Indian Ocean,3.0C,1.32,29.6,1.9,1.2
+2028,Indian Ocean,3.0C,1.4,29.5,2.1,1.8
+2029,Indian Ocean,3.0C,1.48,29.2,2.3,2.5
+2030,Indian Ocean,3.0C,1.55,28.7,2.5,4.4
+2031,Indian Ocean,3.0C,1.62,28.2,2.7,5.9
+2032,Indian Ocean,3.0C,1.69,27.8,2.9,7.5
+2033,Indian Ocean,3.0C,1.76,25.3,3.1,15.7
+2034,Indian Ocean,3.0C,1.83,24.7,3.2,17.8
+2035,Indian Ocean,3.0C,1.89,24.3,3.4,18.9
+2036,Indian Ocean,3.0C,1.95,23.9,3.6,20.5
+2037,Indian Ocean,3.0C,2.01,23.3,3.7,22.2
+2038,Indian Ocean,3.0C,2.07,19.3,3.9,35.6
+2039,Indian Ocean,3.0C,2.13,14.9,4.1,50.5
+2040,Indian Ocean,3.0C,2.19,9.3,4.2,68.9
+2041,Indian Ocean,3.0C,2.25,4.5,4.4,85.0
+2042,Indian Ocean,3.0C,2.31,2.0,4.5,93.3
+2043,Indian Ocean,3.0C,2.36,2.0,4.7,93.3
+2044,Indian Ocean,3.0C,2.42,2.0,4.8,93.3
+2045,Indian Ocean,3.0C,2.47,2.0,5.0,93.3
+2046,Indian Ocean,3.0C,2.53,2.0,5.1,93.3
+2047,Indian Ocean,3.0C,2.58,2.0,5.3,93.3
+2048,Indian Ocean,3.0C,2.64,2.0,5.4,93.3
+2049,Indian Ocean,3.0C,2.69,2.0,5.6,93.3
+2050,Indian Ocean,3.0C,2.74,2.0,5.7,93.3
+2051,Indian Ocean,3.0C,2.79,2.0,5.8,93.3
+2052,Indian Ocean,3.0C,2.85,2.0,6.0,93.3
+2053,Indian Ocean,3.0C,2.9,2.0,6.1,93.3
+2054,Indian Ocean,3.0C,2.95,2.0,6.3,93.3
+2055,Indian Ocean,3.0C,3.0,2.0,6.4,93.3
+2025,Red Sea,1.5C,1.1,50.0,1.2,0.0
+2026,Red Sea,1.5C,1.14,49.8,1.2,0.4
+2027,Red Sea,1.5C,1.17,49.8,1.3,0.4
+2028,Red Sea,1.5C,1.2,49.9,1.3,0.2
+2029,Red Sea,1.5C,1.23,49.9,1.3,0.2
+2030,Red Sea,1.5C,1.26,49.9,1.4,0.1
+2031,Red Sea,1.5C,1.28,49.9,1.4,0.2
+2032,Red Sea,1.5C,1.3,49.9,1.5,0.2
+2033,Red Sea,1.5C,1.32,49.9,1.5,0.3
+2034,Red Sea,1.5C,1.34,49.8,1.5,0.3
+2035,Red Sea,1.5C,1.35,49.8,1.5,0.5
+2036,Red Sea,1.5C,1.37,48.9,1.6,2.1
+2037,Red Sea,1.5C,1.38,48.9,1.6,2.2
+2038,Red Sea,1.5C,1.39,48.9,1.6,2.2
+2039,Red Sea,1.5C,1.4,48.9,1.6,2.3
+2040,Red Sea,1.5C,1.41,48.8,1.6,2.3
+2041,Red Sea,1.5C,1.42,47.6,1.6,4.8
+2042,Red Sea,1.5C,1.43,47.4,1.6,5.1
+2043,Red Sea,1.5C,1.43,47.4,1.7,5.2
+2044,Red Sea,1.5C,1.44,47.3,1.7,5.4
+2045,Red Sea,1.5C,1.45,47.3,1.7,5.4
+2046,Red Sea,1.5C,1.45,47.3,1.7,5.5
+2047,Red Sea,1.5C,1.46,47.2,1.7,5.6
+2048,Red Sea,1.5C,1.46,47.1,1.7,5.8
+2049,Red Sea,1.5C,1.46,47.1,1.7,5.9
+2050,Red Sea,1.5C,1.47,45.9,1.7,8.3
+2051,Red Sea,1.5C,1.47,45.9,1.7,8.3
+2052,Red Sea,1.5C,1.47,45.8,1.7,8.4
+2053,Red Sea,1.5C,1.48,45.7,1.7,8.6
+2054,Red Sea,1.5C,1.48,45.7,1.7,8.6
+2055,Red Sea,1.5C,1.48,45.7,1.7,8.5
+2025,Red Sea,2.0C,1.1,50.1,1.2,0.0
+2026,Red Sea,2.0C,1.13,50.1,1.2,0.0
+2027,Red Sea,2.0C,1.16,50.2,1.2,0.0
+2028,Red Sea,2.0C,1.19,50.2,1.3,0.0
+2029,Red Sea,2.0C,1.22,50.3,1.3,0.0
+2030,Red Sea,2.0C,1.25,50.3,1.4,0.0
+2031,Red Sea,2.0C,1.28,50.3,1.4,0.0
+2032,Red Sea,2.0C,1.31,50.2,1.5,0.0
+2033,Red Sea,2.0C,1.34,50.2,1.5,0.0
+2034,Red Sea,2.0C,1.37,50.1,1.6,0.0
+2035,Red Sea,2.0C,1.4,50.1,1.6,0.0
+2036,Red Sea,2.0C,1.43,50.0,1.6,0.0
+2037,Red Sea,2.0C,1.46,50.0,1.7,0.1
+2038,Red Sea,2.0C,1.49,49.9,1.7,0.1
+2039,Red Sea,2.0C,1.52,49.8,1.8,0.4
+2040,Red Sea,2.0C,1.55,49.5,1.8,1.0
+2041,Red Sea,2.0C,1.58,49.5,1.9,1.1
+2042,Red Sea,2.0C,1.61,48.6,1.9,2.8
+2043,Red Sea,2.0C,1.64,46.8,2.0,6.4
+2044,Red Sea,2.0C,1.67,45.2,2.0,9.6
+2045,Red Sea,2.0C,1.7,45.0,2.1,9.9
+2046,Red Sea,2.0C,1.73,44.8,2.1,10.3
+2047,Red Sea,2.0C,1.76,44.8,2.1,10.5
+2048,Red Sea,2.0C,1.79,42.8,2.2,14.4
+2049,Red Sea,2.0C,1.82,42.7,2.2,14.6
+2050,Red Sea,2.0C,1.85,42.4,2.3,15.1
+2051,Red Sea,2.0C,1.88,42.1,2.3,15.7
+2052,Red Sea,2.0C,1.91,39.6,2.4,20.7
+2053,Red Sea,2.0C,1.94,39.5,2.4,21.0
+2054,Red Sea,2.0C,1.97,37.3,2.5,25.4
+2055,Red Sea,2.0C,2.0,37.0,2.5,26.1
+2025,Red Sea,3.0C,1.1,49.8,1.2,0.4
+2026,Red Sea,3.0C,1.23,49.8,1.3,0.3
+2027,Red Sea,3.0C,1.32,49.8,1.5,0.4
+2028,Red Sea,3.0C,1.4,49.7,1.6,0.7
+2029,Red Sea,3.0C,1.48,49.7,1.7,0.6
+2030,Red Sea,3.0C,1.55,49.5,1.8,1.0
+2031,Red Sea,3.0C,1.62,49.3,1.9,1.5
+2032,Red Sea,3.0C,1.69,48.3,2.0,3.3
+2033,Red Sea,3.0C,1.76,48.1,2.1,3.7
+2034,Red Sea,3.0C,1.83,48.1,2.2,3.8
+2035,Red Sea,3.0C,1.89,47.9,2.3,4.2
+2036,Red Sea,3.0C,1.95,47.6,2.4,4.7
+2037,Red Sea,3.0C,2.01,45.2,2.5,9.6
+2038,Red Sea,3.0C,2.07,44.9,2.6,10.1
+2039,Red Sea,3.0C,2.13,42.1,2.7,15.8
+2040,Red Sea,3.0C,2.19,41.8,2.8,16.4
+2041,Red Sea,3.0C,2.25,41.1,2.9,17.8
+2042,Red Sea,3.0C,2.31,40.7,3.0,18.6
+2043,Red Sea,3.0C,2.36,40.1,3.0,19.9
+2044,Red Sea,3.0C,2.42,39.7,3.1,20.6
+2045,Red Sea,3.0C,2.47,39.1,3.2,21.8
+2046,Red Sea,3.0C,2.53,37.2,3.3,25.5
+2047,Red Sea,3.0C,2.58,36.5,3.4,26.9
+2048,Red Sea,3.0C,2.64,34.3,3.5,31.5
+2049,Red Sea,3.0C,2.69,33.9,3.5,32.1
+2050,Red Sea,3.0C,2.74,30.0,3.6,40.1
+2051,Red Sea,3.0C,2.79,29.4,3.7,41.2
+2052,Red Sea,3.0C,2.85,28.8,3.8,42.4
+2053,Red Sea,3.0C,2.9,28.2,3.8,43.5
+2054,Red Sea,3.0C,2.95,27.5,3.9,45.0
+2055,Red Sea,3.0C,3.0,26.9,4.0,46.1
+2025,Central Pacific,1.5C,1.1,37.0,1.3,2.7
+2026,Central Pacific,1.5C,1.14,35.9,1.4,5.5
+2027,Central Pacific,1.5C,1.17,35.8,1.4,5.8
+2028,Central Pacific,1.5C,1.2,35.7,1.5,5.9
+2029,Central Pacific,1.5C,1.23,35.7,1.6,6.0
+2030,Central Pacific,1.5C,1.26,35.6,1.7,6.2
+2031,Central Pacific,1.5C,1.28,35.5,1.7,6.5
+2032,Central Pacific,1.5C,1.3,35.4,1.8,6.7
+2033,Central Pacific,1.5C,1.32,35.4,1.8,6.9
+2034,Central Pacific,1.5C,1.34,35.2,1.9,7.3
+2035,Central Pacific,1.5C,1.35,35.1,1.9,7.7
+2036,Central Pacific,1.5C,1.37,33.1,1.9,12.9
+2037,Central Pacific,1.5C,1.38,32.9,2.0,13.5
+2038,Central Pacific,1.5C,1.39,30.7,2.0,19.3
+2039,Central Pacific,1.5C,1.4,30.5,2.0,19.6
+2040,Central Pacific,1.5C,1.41,30.4,2.0,20.1
+2041,Central Pacific,1.5C,1.42,30.2,2.1,20.5
+2042,Central Pacific,1.5C,1.43,30.0,2.1,21.1
+2043,Central Pacific,1.5C,1.43,29.9,2.1,21.4
+2044,Central Pacific,1.5C,1.44,29.7,2.1,21.9
+2045,Central Pacific,1.5C,1.45,29.5,2.1,22.5
+2046,Central Pacific,1.5C,1.45,27.1,2.2,28.7
+2047,Central Pacific,1.5C,1.46,26.9,2.2,29.2
+2048,Central Pacific,1.5C,1.46,25.5,2.2,32.8
+2049,Central Pacific,1.5C,1.46,25.3,2.2,33.5
+2050,Central Pacific,1.5C,1.47,24.9,2.2,34.5
+2051,Central Pacific,1.5C,1.47,24.6,2.2,35.3
+2052,Central Pacific,1.5C,1.47,24.2,2.2,36.3
+2053,Central Pacific,1.5C,1.48,23.9,2.2,37.0
+2054,Central Pacific,1.5C,1.48,23.5,2.2,38.2
+2055,Central Pacific,1.5C,1.48,23.2,2.2,38.9
+2025,Central Pacific,2.0C,1.1,38.0,1.3,0.0
+2026,Central Pacific,2.0C,1.13,38.1,1.3,0.0
+2027,Central Pacific,2.0C,1.16,38.1,1.4,0.0
+2028,Central Pacific,2.0C,1.19,38.1,1.5,0.0
+2029,Central Pacific,2.0C,1.22,38.0,1.6,0.0
+2030,Central Pacific,2.0C,1.25,37.9,1.6,0.3
+2031,Central Pacific,2.0C,1.28,37.8,1.7,0.6
+2032,Central Pacific,2.0C,1.31,37.6,1.8,1.0
+2033,Central Pacific,2.0C,1.34,35.9,1.9,5.6
+2034,Central Pacific,2.0C,1.37,35.7,1.9,6.2
+2035,Central Pacific,2.0C,1.4,35.4,2.0,6.9
+2036,Central Pacific,2.0C,1.43,35.2,2.1,7.5
+2037,Central Pacific,2.0C,1.46,34.9,2.2,8.2
+2038,Central Pacific,2.0C,1.49,34.8,2.2,8.5
+2039,Central Pacific,2.0C,1.52,34.4,2.3,9.5
+2040,Central Pacific,2.0C,1.55,34.2,2.4,9.9
+2041,Central Pacific,2.0C,1.58,33.7,2.5,11.3
+2042,Central Pacific,2.0C,1.61,33.5,2.6,11.8
+2043,Central Pacific,2.0C,1.64,32.1,2.6,15.4
+2044,Central Pacific,2.0C,1.67,31.8,2.7,16.2
+2045,Central Pacific,2.0C,1.7,31.3,2.8,17.5
+2046,Central Pacific,2.0C,1.73,30.9,2.9,18.7
+2047,Central Pacific,2.0C,1.76,30.6,2.9,19.5
+2048,Central Pacific,2.0C,1.79,27.5,3.0,27.6
+2049,Central Pacific,2.0C,1.82,26.9,3.1,29.3
+2050,Central Pacific,2.0C,1.85,26.3,3.2,30.8
+2051,Central Pacific,2.0C,1.88,25.7,3.2,32.3
+2052,Central Pacific,2.0C,1.91,25.1,3.3,33.9
+2053,Central Pacific,2.0C,1.94,24.5,3.4,35.4
+2054,Central Pacific,2.0C,1.97,21.1,3.5,44.4
+2055,Central Pacific,2.0C,2.0,20.4,3.5,46.4
+2025,Central Pacific,3.0C,1.1,38.0,1.3,0.0
+2026,Central Pacific,3.0C,1.23,38.0,1.6,0.0
+2027,Central Pacific,3.0C,1.32,37.8,1.8,0.6
+2028,Central Pacific,3.0C,1.4,36.9,2.0,3.0
+2029,Central Pacific,3.0C,1.48,36.8,2.2,3.2
+2030,Central Pacific,3.0C,1.55,34.4,2.4,9.6
+2031,Central Pacific,3.0C,1.62,31.5,2.6,17.2
+2032,Central Pacific,3.0C,1.69,31.1,2.8,18.2
+2033,Central Pacific,3.0C,1.76,27.6,2.9,27.4
+2034,Central Pacific,3.0C,1.83,27.1,3.1,28.7
+2035,Central Pacific,3.0C,1.89,24.9,3.3,34.5
+2036,Central Pacific,3.0C,1.95,24.1,3.4,36.7
+2037,Central Pacific,3.0C,2.01,23.7,3.6,37.7
+2038,Central Pacific,3.0C,2.07,22.7,3.7,40.4
+2039,Central Pacific,3.0C,2.13,19.4,3.9,48.9
+2040,Central Pacific,3.0C,2.19,18.4,4.0,51.5
+2041,Central Pacific,3.0C,2.25,17.8,4.2,53.0
+2042,Central Pacific,3.0C,2.31,12.6,4.3,66.7
+2043,Central Pacific,3.0C,2.36,11.6,4.5,69.4
+2044,Central Pacific,3.0C,2.42,10.4,4.6,72.5
+2045,Central Pacific,3.0C,2.47,6.1,4.8,83.9
+2046,Central Pacific,3.0C,2.53,2.0,4.9,94.7
+2047,Central Pacific,3.0C,2.58,2.0,5.0,94.7
+2048,Central Pacific,3.0C,2.64,2.0,5.2,94.7
+2049,Central Pacific,3.0C,2.69,2.0,5.3,94.7
+2050,Central Pacific,3.0C,2.74,2.0,5.4,94.7
+2051,Central Pacific,3.0C,2.79,2.0,5.6,94.7
+2052,Central Pacific,3.0C,2.85,2.0,5.7,94.7
+2053,Central Pacific,3.0C,2.9,2.0,5.8,94.7
+2054,Central Pacific,3.0C,2.95,2.0,6.0,94.7
+2055,Central Pacific,3.0C,3.0,2.0,6.1,94.7
+2025,Eastern Pacific,1.5C,1.1,20.0,1.4,0.1
+2026,Eastern Pacific,1.5C,1.14,19.9,1.5,0.3
+2027,Eastern Pacific,1.5C,1.17,19.9,1.6,0.7
+2028,Eastern Pacific,1.5C,1.2,19.7,1.7,1.4
+2029,Eastern Pacific,1.5C,1.23,19.6,1.8,2.2
+2030,Eastern Pacific,1.5C,1.26,19.3,1.9,3.5
+2031,Eastern Pacific,1.5C,1.28,19.0,2.0,4.8
+2032,Eastern Pacific,1.5C,1.3,18.8,2.1,6.0
+2033,Eastern Pacific,1.5C,1.32,18.5,2.2,7.4
+2034,Eastern Pacific,1.5C,1.34,18.3,2.2,8.6
+2035,Eastern Pacific,1.5C,1.35,16.5,2.3,17.4
+2036,Eastern Pacific,1.5C,1.37,16.3,2.3,18.5
+2037,Eastern Pacific,1.5C,1.38,15.9,2.4,20.7
+2038,Eastern Pacific,1.5C,1.39,15.7,2.4,21.6
+2039,Eastern Pacific,1.5C,1.4,15.4,2.4,22.8
+2040,Eastern Pacific,1.5C,1.41,12.5,2.5,37.7
+2041,Eastern Pacific,1.5C,1.42,11.9,2.5,40.5
+2042,Eastern Pacific,1.5C,1.43,9.7,2.5,51.4
+2043,Eastern Pacific,1.5C,1.43,9.3,2.6,53.3
+2044,Eastern Pacific,1.5C,1.44,8.9,2.6,55.7
+2045,Eastern Pacific,1.5C,1.45,8.3,2.6,58.5
+2046,Eastern Pacific,1.5C,1.45,7.9,2.6,60.5
+2047,Eastern Pacific,1.5C,1.46,7.1,2.6,64.3
+2048,Eastern Pacific,1.5C,1.46,6.6,2.7,67.1
+2049,Eastern Pacific,1.5C,1.46,6.2,2.7,69.2
+2050,Eastern Pacific,1.5C,1.47,5.7,2.7,71.5
+2051,Eastern Pacific,1.5C,1.47,5.4,2.7,72.9
+2052,Eastern Pacific,1.5C,1.47,5.1,2.7,74.3
+2053,Eastern Pacific,1.5C,1.48,4.7,2.7,76.4
+2054,Eastern Pacific,1.5C,1.48,4.2,2.7,79.0
+2055,Eastern Pacific,1.5C,1.48,3.9,2.7,80.7
+2025,Eastern Pacific,2.0C,1.1,20.0,1.4,0.1
+2026,Eastern Pacific,2.0C,1.13,19.9,1.5,0.4
+2027,Eastern Pacific,2.0C,1.16,19.8,1.6,1.2
+2028,Eastern Pacific,2.0C,1.19,18.7,1.7,6.3
+2029,Eastern Pacific,2.0C,1.22,18.6,1.8,6.9
+2030,Eastern Pacific,2.0C,1.25,18.4,1.9,8.1
+2031,Eastern Pacific,2.0C,1.28,18.1,2.0,9.6
+2032,Eastern Pacific,2.0C,1.31,17.8,2.1,10.8
+2033,Eastern Pacific,2.0C,1.34,17.5,2.2,12.3
+2034,Eastern Pacific,2.0C,1.37,17.4,2.3,13.1
+2035,Eastern Pacific,2.0C,1.4,15.9,2.4,20.7
+2036,Eastern Pacific,2.0C,1.43,13.5,2.5,32.6
+2037,Eastern Pacific,2.0C,1.46,13.1,2.7,34.3
+2038,Eastern Pacific,2.0C,1.49,10.4,2.8,47.8
+2039,Eastern Pacific,2.0C,1.52,10.0,2.9,50.2
+2040,Eastern Pacific,2.0C,1.55,9.4,3.0,53.1
+2041,Eastern Pacific,2.0C,1.58,8.7,3.1,56.7
+2042,Eastern Pacific,2.0C,1.61,4.6,3.2,77.2
+2043,Eastern Pacific,2.0C,1.64,3.9,3.3,80.6
+2044,Eastern Pacific,2.0C,1.67,3.3,3.4,83.6
+2045,Eastern Pacific,2.0C,1.7,2.0,3.5,90.0
+2046,Eastern Pacific,2.0C,1.73,2.0,3.6,90.0
+2047,Eastern Pacific,2.0C,1.76,2.0,3.7,90.0
+2048,Eastern Pacific,2.0C,1.79,2.0,3.8,90.0
+2049,Eastern Pacific,2.0C,1.82,2.0,4.0,90.0
+2050,Eastern Pacific,2.0C,1.85,2.0,4.1,90.0
+2051,Eastern Pacific,2.0C,1.88,2.0,4.2,90.0
+2052,Eastern Pacific,2.0C,1.91,2.0,4.3,90.0
+2053,Eastern Pacific,2.0C,1.94,2.0,4.4,90.0
+2054,Eastern Pacific,2.0C,1.97,2.0,4.5,90.0
+2055,Eastern Pacific,2.0C,2.0,2.0,4.6,90.0
+2025,Eastern Pacific,3.0C,1.1,20.0,1.4,0.1
+2026,Eastern Pacific,3.0C,1.23,19.9,1.8,0.7
+2027,Eastern Pacific,3.0C,1.32,17.4,2.1,12.9
+2028,Eastern Pacific,3.0C,1.4,17.2,2.4,13.8
+2029,Eastern Pacific,3.0C,1.48,16.8,2.7,16.1
+2030,Eastern Pacific,3.0C,1.55,13.3,3.0,33.3
+2031,Eastern Pacific,3.0C,1.62,10.1,3.2,49.5
+2032,Eastern Pacific,3.0C,1.69,9.8,3.5,51.0
+2033,Eastern Pacific,3.0C,1.76,9.3,3.7,53.4
+2034,Eastern Pacific,3.0C,1.83,8.5,4.0,57.7
+2035,Eastern Pacific,3.0C,1.89,4.5,4.2,77.7
+2036,Eastern Pacific,3.0C,1.95,3.6,4.4,82.0
+2037,Eastern Pacific,3.0C,2.01,2.6,4.6,87.1
+2038,Eastern Pacific,3.0C,2.07,2.0,4.9,90.0
+2039,Eastern Pacific,3.0C,2.13,2.0,5.1,90.0
+2040,Eastern Pacific,3.0C,2.19,2.0,5.3,90.0
+2041,Eastern Pacific,3.0C,2.25,2.0,5.5,90.0
+2042,Eastern Pacific,3.0C,2.31,2.0,5.7,90.0
+2043,Eastern Pacific,3.0C,2.36,2.0,5.9,90.0
+2044,Eastern Pacific,3.0C,2.42,2.0,6.1,90.0
+2045,Eastern Pacific,3.0C,2.47,2.0,6.3,90.0
+2046,Eastern Pacific,3.0C,2.53,2.0,6.5,90.0
+2047,Eastern Pacific,3.0C,2.58,2.0,6.7,90.0
+2048,Eastern Pacific,3.0C,2.64,2.0,6.9,90.0
+2049,Eastern Pacific,3.0C,2.69,2.0,7.1,90.0
+2050,Eastern Pacific,3.0C,2.74,2.0,7.3,90.0
+2051,Eastern Pacific,3.0C,2.79,2.0,7.5,90.0
+2052,Eastern Pacific,3.0C,2.85,2.0,7.6,90.0
+2053,Eastern Pacific,3.0C,2.9,2.0,7.8,90.0
+2054,Eastern Pacific,3.0C,2.95,2.0,8.0,90.0
+2055,Eastern Pacific,3.0C,3.0,2.0,8.2,90.0

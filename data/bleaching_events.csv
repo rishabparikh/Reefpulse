@@ -1,0 +1,14 @@
+year,event_name,severity,pct_reefs_affected,regions_affected,duration_months,est_recovery_years
+1998,1st Global Bleaching Event,Severe,16,"Indian Ocean, Pacific, Caribbean",8,10
+2002,GBR Mass Bleaching,Moderate,5,Great Barrier Reef,4,6
+2005,Caribbean Bleaching,Severe,8,Caribbean,6,8
+2010,2nd Global Bleaching Event,Severe,12,"Indian Ocean, SE Asia, Caribbean",7,8
+2014,3rd Global Bleaching Begins,Moderate,10,"Pacific, Indian Ocean",5,6
+2015,3rd Global Bleaching Peak 1,Severe,38,"Pacific, Indian Ocean, Caribbean",14,5
+2016,3rd Global Bleaching Peak 2,Extreme,56,"Great Barrier Reef, Pacific, Indian Ocean",12,7
+2017,3rd Global Bleaching Final,Severe,45,"Great Barrier Reef, Caribbean",8,6
+2020,GBR Mass Bleaching 2020,Moderate,8,Great Barrier Reef,4,4
+2022,GBR Mass Bleaching 2022,Severe,12,Great Barrier Reef,5,4
+2023,4th Global Bleaching Begins,Extreme,54,Global - all ocean basins,18,0
+2024,4th Global Bleaching Peak,Extreme,62,Global - worst recorded,12,0
+2025,4th Global Bleaching Ongoing,Severe,48,"Pacific, Indian Ocean, Caribbean",0,0

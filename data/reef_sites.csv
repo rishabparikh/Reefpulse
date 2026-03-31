@@ -1,0 +1,43 @@
+site_id,name,region,country,lat,lon,area_km2,reef_type,coral_cover_2015,coral_cover_2024,health_status,cover_change_pct,protection_level
+GBR-N,Northern GBR,Great Barrier Reef,Australia,-14.5,145.5,11500,Barrier,22,18,Critical,-18.2,National Park
+GBR-C,Central GBR,Great Barrier Reef,Australia,-18.2,147.5,14200,Barrier,35,28,Threatened,-20.0,Unprotected
+GBR-S,Southern GBR,Great Barrier Reef,Australia,-22.0,152.0,8900,Barrier,42,36,Moderate,-14.3,Partial Protection
+GBR-CS,Coral Sea Reefs,Great Barrier Reef,Australia,-16.0,150.0,3200,Platform,48,42,Fair,-12.5,Partial Protection
+CT-RI,Raja Ampat,Coral Triangle,Indonesia,-0.5,130.5,4500,Fringing,65,58,Good,-10.8,Marine Protected Area
+CT-BI,Bunaken,Coral Triangle,Indonesia,1.6,124.8,890,Fringing,55,48,Fair,-12.7,Marine Protected Area
+CT-WI,Wakatobi,Coral Triangle,Indonesia,-5.5,123.8,1390,Atoll,52,44,Fair,-15.4,Marine Protected Area
+CT-KI,Komodo,Coral Triangle,Indonesia,-8.5,119.5,1720,Fringing,48,40,Moderate,-16.7,Unprotected
+CT-TP,Tubbataha,Coral Triangle,Philippines,8.9,119.9,970,Atoll,58,52,Good,-10.3,Partial Protection
+CT-AP,Apo Reef,Coral Triangle,Philippines,12.7,120.5,340,Atoll,45,38,Moderate,-15.6,Partial Protection
+CT-VP,Verde Island Passage,Coral Triangle,Philippines,13.5,121.0,1100,Fringing,50,43,Fair,-14.0,Marine Protected Area
+CT-PNG,Kimbe Bay,Coral Triangle,Papua New Guinea,-5.4,150.1,2800,Fringing,60,55,Good,-8.3,Unprotected
+CT-MY,Sipadan,Coral Triangle,Malaysia,4.1,118.6,120,Fringing,55,50,Good,-9.1,Unprotected
+CB-BZ,Belize Barrier Reef,Caribbean,Belize,17.5,-87.8,960,Barrier,28,20,Threatened,-28.6,Marine Protected Area
+CB-BN,Bonaire Reef,Caribbean,Bonaire,12.2,-68.3,270,Fringing,38,32,Moderate,-15.8,Marine Protected Area
+CB-FK,Florida Keys,Caribbean,USA,24.6,-81.6,1430,Barrier,18,12,Critical,-33.3,Marine Protected Area
+CB-CR,Cozumel,Caribbean,Mexico,20.4,-87.0,350,Fringing,32,25,Threatened,-21.9,World Heritage Site
+CB-VI,US Virgin Islands,Caribbean,USA,18.3,-64.9,140,Fringing,24,16,Threatened,-33.3,Partial Protection
+CB-CY,Cayman Islands,Caribbean,Cayman Islands,19.3,-81.4,220,Fringing,30,22,Threatened,-26.7,National Park
+CB-JM,Jamaica North Coast,Caribbean,Jamaica,18.5,-77.8,180,Fringing,15,10,Critical,-33.3,World Heritage Site
+CB-CU,Jardines de la Reina,Caribbean,Cuba,21.5,-79.0,2170,Barrier,52,48,Good,-7.7,Partial Protection
+IO-MV,Maldives Central Atolls,Indian Ocean,Maldives,4.2,73.5,4500,Atoll,35,24,Threatened,-31.4,Marine Protected Area
+IO-SC,Seychelles Inner Islands,Indian Ocean,Seychelles,-4.6,55.5,1700,Granitic,30,22,Threatened,-26.7,World Heritage Site
+IO-LK,Lakshadweep,Indian Ocean,India,10.6,72.6,430,Atoll,42,38,Moderate,-9.5,National Park
+IO-MZ,Mozambique Channel,Indian Ocean,Mozambique,-12.5,40.5,1900,Fringing,38,32,Moderate,-15.8,National Park
+IO-MG,NE Madagascar,Indian Ocean,Madagascar,-13.0,49.5,2400,Fringing,40,34,Moderate,-15.0,Unprotected
+IO-RU,Reunion,Indian Ocean,France,-21.1,55.5,120,Fringing,28,20,Threatened,-28.6,Marine Protected Area
+IO-CH,Chagos Archipelago,Indian Ocean,BIOT,-6.5,71.5,3600,Atoll,55,48,Fair,-12.7,Partial Protection
+RS-EG,Egyptian Red Sea,Red Sea,Egypt,24.5,35.5,3800,Fringing,55,52,Good,-5.5,Partial Protection
+RS-SA,Saudi Arabian Reefs,Red Sea,Saudi Arabia,22.0,38.5,2600,Fringing,50,47,Good,-6.0,Marine Protected Area
+RS-SD,Sudanese Reefs,Red Sea,Sudan,19.5,37.5,1800,Fringing,58,55,Good,-5.2,Partial Protection
+RS-DJ,Djibouti Gulf,Red Sea,Djibouti,11.5,43.2,350,Fringing,35,30,Moderate,-14.3,Marine Protected Area
+CP-HI,Hawaiian Islands,Central Pacific,USA,21.0,-157.0,1660,Fringing,32,26,Threatened,-18.8,Marine Protected Area
+CP-FP,French Polynesia,Central Pacific,France,-17.5,-149.5,6200,Atoll,45,40,Moderate,-11.1,Unprotected
+CP-FJ,Fiji Great Reef,Central Pacific,Fiji,-17.8,177.0,3900,Barrier,42,36,Moderate,-14.3,Unprotected
+CP-SM,Samoa,Central Pacific,Samoa,-13.8,-172.0,490,Fringing,38,32,Moderate,-15.8,Unprotected
+CP-PW,Palau,Central Pacific,Palau,7.5,134.5,1400,Barrier,55,50,Good,-9.1,World Heritage Site
+CP-NC,New Caledonia,Central Pacific,France,-22.3,166.5,4500,Barrier,48,44,Fair,-8.3,Marine Protected Area
+CP-MS,Marshall Islands,Central Pacific,Marshall Islands,7.1,171.4,2100,Atoll,40,34,Moderate,-15.0,Partial Protection
+EP-GI,Galapagos Islands,Eastern Pacific,Ecuador,-0.9,-89.6,280,Fringing,20,15,Critical,-25.0,National Park
+EP-CR,Costa Rica Pacific,Eastern Pacific,Costa Rica,8.7,-83.5,160,Fringing,25,20,Threatened,-20.0,Marine Protected Area
+EP-PA,Panama Gulf,Eastern Pacific,Panama,7.5,-78.5,320,Fringing,30,25,Threatened,-16.7,National Park
